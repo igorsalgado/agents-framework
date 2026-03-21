@@ -18,6 +18,7 @@ Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por e
 - `qa-engineer/`
 - `data-engineer/`
 - `infra/`
+- `guide/`
 - `shared/`
 - `scripts/`
 
@@ -79,3 +80,4 @@ Cada papel segue a mesma convenção:
 - Adicione novas `skills` quando uma especialidade começar a repetir decisões.
 - Adicione novos templates apenas quando reduzirem esforço real e forem reutilizáveis.
 - Evite pastas paralelas com a mesma responsabilidade.
+- Para criar um novo agente, consulte `guide/new-agent.md`.
