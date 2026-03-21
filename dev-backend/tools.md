@@ -1,37 +1,32 @@
 # Tools: Dev Backend
 
-Stack preferencial para backend pragmático em Python.
+Stack preferencial para engenharia backend pragmática, com escolha guiada por contexto.
 
-## Linguagem e Base
+## Base de Trabalho
+- Git
+- Docker
+- logs estruturados e observabilidade disponível no ambiente
+
+## Stack Mais Comum Neste Workspace
 - Python 3.12+
 - `uv` ou `pip-tools` para ambiente e dependências
 - Ruff
 - mypy ou pyright
+- pytest
 
-## Frameworks e API
-- FastAPI para APIs modernas, spec-driven e API-first
-- Django para monólitos produtivos, admin e casos com backoffice forte
-- Pydantic
-- OpenAPI / Swagger
+## Frameworks por Contexto
+- FastAPI para APIs HTTP modernas, OpenAPI e serviços orientados a contrato
+- Django para monólitos produtivos, admin, backoffice e ORM integrado
+- Pydantic quando schema e validação explícita fizerem sentido
 
-## Persistência e Dados
+## Persistência e Integrações
 - PostgreSQL
 - Redis
 - SQLAlchemy ou Django ORM
 - Alembic quando o stack pedir migrações fora do Django
+- `httpx` para integrações HTTP e testes
 
-## Testes e Qualidade
-- pytest
-- httpx
-- factory_boy
-- Faker
-
-## Arquitetura
-- DDD pragmático
-- TDD quando o risco justificar
-- Clean code
-- Design patterns apenas quando reduzirem acoplamento ou duplicação real
-
-## Runtime
-- Docker
-- Logs estruturados
+## Critério de Escolha
+- Prefira a menor combinação de ferramentas que resolva o problema com segurança.
+- Não imponha FastAPI ou Django fora do contexto em que eles realmente ajudam.
+- Use patterns, camadas e abstrações apenas quando reduzirem acoplamento, risco ou duplicação real.

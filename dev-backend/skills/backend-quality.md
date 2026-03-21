@@ -1,7 +1,7 @@
 # Skill: Backend Quality
 
 ## Quando usar
-Use esta skill para definir TDD, estratégia de teste, observabilidade mínima e critérios de qualidade para backend Python.
+Use esta skill para definir estratégia de teste, observabilidade mínima e critérios de qualidade para backend.
 
 ## Padrão Sênior
 - Testar primeiro o comportamento crítico ou, no mínimo, travá-lo cedo com pytest.

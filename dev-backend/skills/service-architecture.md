@@ -1,7 +1,7 @@
 # Skill: Service Architecture
 
 ## Quando usar
-Use esta skill para estruturar serviços Python com fronteiras claras de domínio, aplicação, infraestrutura e interface.
+Use esta skill para estruturar serviços backend com fronteiras claras de domínio, aplicação, infraestrutura e interface.
 
 ## Padrão Sênior
 - Delimitar responsabilidades por capacidade de negócio.

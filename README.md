@@ -29,6 +29,11 @@ Cada papel segue a mesma convenção:
 - `templates/`: esqueletos pragmáticos para começar rápido sem inventar formato.
 - `tools.md`: stack preferencial para reduzir divergência técnica.
 
+## Regra de Desenho dos Agentes
+- `agent.md` deve ser contexto-first e orientado ao papel.
+- Viés de stack, framework, biblioteca e ferramenta deve viver principalmente em `skills/` e `tools.md`.
+- O agente escolhe tecnologia a partir do problema real, não do prompt-base.
+
 ## Camadas do Framework
 1. Nível de definição: `agent.md`
 2. Nível de conhecimento: `skills/`
@@ -67,11 +72,12 @@ Artifacts existem apenas quando destravam o próximo papel.
 - duplicação do que já está claro no código, no commit ou no handoff.
 
 ## Direcionamento Técnico Atual
-- `dev-backend`: Python, FastAPI, Django, API-first, spec-driven, DDD, TDD, clean code e design patterns.
-- `dev-frontend`: Streamlit, Vue, Tailwind e bibliotecas que reduzam tempo de entrega sem criar acoplamento desnecessário.
+- `dev-backend`: engenharia backend orientada a contrato, domínio, dados e operação; a stack específica fica nas skills e Python é hoje a base mais comum do workspace.
+- `dev-frontend`: engenharia de interface orientada a fluxo, estado, acessibilidade, integração e manutenção; a stack específica fica nas skills e em `tools.md`.
 - `code-reviewer`: revisão orientada a risco com foco em regressão, segurança, arquitetura, testes e merge readiness.
-- `qa-engineer`: pytest, Postman, Bandit e validação orientada a risco nesse ecossistema.
-- `infra`: Docker, logs, observabilidade e operação enxuta.
+- `qa-engineer`: engenharia de qualidade orientada a risco, evidência e release readiness; ferramentas específicas ficam nas skills e em `tools.md`.
+- `data-engineer`: engenharia de dados orientada a modelagem analítica, confiabilidade, qualidade e governança; a stack específica fica nas skills e em `tools.md`.
+- `infra`: operação orientada a reprodutibilidade, diagnóstico, observabilidade e baixo atrito; escolhas de plataforma ficam nas skills e em `tools.md`.
 
 ## Como usar
 1. Ler o `agent.md` do papel principal.
@@ -86,7 +92,7 @@ Artifacts existem apenas quando destravam o próximo papel.
 - Tratar `skills/` como referência operacional, não como checklist cego.
 - Produzir saídas que possam ser consumidas por outro especialista sem reinterpretação.
 - Sempre explicitar riscos, lacunas e dependências relevantes.
-- Não criar artifact só para “deixar registrado”; artifact sem consumidor é ruído.
+- Não criar artifact só para "deixar registrado"; artifact sem consumidor é ruído.
 
 ## Convenções de Conteúdo
 - Todos os arquivos `.md` devem ficar em UTF-8.

@@ -45,6 +45,9 @@ agents/<nome-do-papel>/
 ### 2. Criar `agent.md`
 Esse é o contrato comportamental do agente.
 
+O `agent.md` deve capturar postura, critério de decisão, barra de qualidade e colaboração do papel.
+Stack, framework, bibliotecas e preferências operacionais devem ficar principalmente em `skills/` e `tools.md`.
+
 Estrutura mínima:
 - missão;
 - postura de especialista;
@@ -59,6 +62,7 @@ Estrutura mínima:
 Documente a stack preferencial do papel.
 
 O objetivo é reduzir divergência técnica, não transformar o arquivo em catálogo infinito.
+Use `tools.md` para registrar preferências e defaults do workspace sem contaminar o prompt-base do agente.
 
 ### 4. Criar skills
 Cada skill deve conter:
@@ -129,8 +133,9 @@ Artifacts só devem existir quando destravarem o próximo papel.
 - [ ] Agente testado em uma tarefa real
 
 ## Regras de Ouro
-1. Skills são referência operacional, não checklist cego.
-2. Templates são atalhos, não substituto de entendimento.
-3. Artifact só existe se alguém realmente depende dele.
-4. Melhor menos arquivos úteis do que mais documentação morta.
-5. Todo `.md` deve permanecer em UTF-8.
+1. `agent.md` define o papel e a barra de qualidade; `skills/` e `tools.md` carregam o viés técnico.
+2. Skills são referência operacional, não checklist cego.
+3. Templates são atalhos, não substituto de entendimento.
+4. Artifact só existe se alguém realmente depende dele.
+5. Melhor menos arquivos úteis do que mais documentação morta.
+6. Todo `.md` deve permanecer em UTF-8.

@@ -1,14 +1,14 @@
 # Skill: API Design
 
 ## Quando usar
-Use esta skill para projetar ou revisar APIs HTTP em um contexto API-first, spec-driven e Python-first.
+Use esta skill para projetar ou revisar APIs HTTP em um contexto orientado a contrato, compatibilidade e clareza de interface.
 
 ## Padrão Sênior
 - Definir o contrato antes da implementação.
 - Tratar OpenAPI como fonte de alinhamento entre produto, frontend, backend e QA.
 - Modelar recursos, comandos, erros, autenticação e paginação de forma consistente.
 - Garantir idempotência onde houver retry, processamento assíncrono ou efeito colateral.
-- Escolher FastAPI ou Django com base no contexto, sem forçar framework.
+- Escolher framework e estilo de endpoint com base no contexto, sem forçar stack.
 
 ## Checklist Base
 - Request e response com schema claro e explícito.
