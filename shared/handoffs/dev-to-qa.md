@@ -1,18 +1,21 @@
 # Handoff: Dev to QA
 
-Protocolo de passagem do código pronto para a validação de qualidade.
+Protocolo de passagem da implementação para validação.
 
-## 📥 Entradas (Dev -> QA)
-1. **Branch do Código/URL de Staging.**
-2. **Notas Técnicas:** O que mudou e onde o QA deve focar.
-3. **Smoke Test:** O desenvolvedor rodou os testes básicos?
+## Entrada mínima
+1. Branch, commit ou ambiente de teste acessível
+2. Notas objetivas do que mudou e onde o risco está concentrado
+3. Confirmação de smoke test básico pelo time de desenvolvimento
 
-## 📤 Saídas (QA -> Dev)
-1. **Bug Reports (se houver).**
-2. **Test Run Report (Pass/Fail).**
-3. **Sinal de Aprovação para Produção.**
+## Saída esperada
+1. Execução de validação orientada a risco
+2. Bug reports, se houver
+3. Sinal claro de aprovado, aprovado com ressalva ou reprovado
 
-## ✅ Checklist de Pronto (Definition of Ready)
-- [ ] O código passou em todos os testes unitários?
-- [ ] O linting está passando sem erros?
-- [ ] A funcionalidade está disponível no ambiente de teste?
+## Artifact opcional
+- `qa-engineer/test-plans/<feature>.md` apenas quando a feature tiver risco relevante, integração sensível ou regressão cara.
+
+## Definition of Ready
+- [ ] A mudança está acessível para teste
+- [ ] O foco do QA está claro
+- [ ] Não falta contexto básico para reproduzir e validar

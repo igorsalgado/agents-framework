@@ -1,17 +1,18 @@
 # Handoff: Designer to Dev
 
-Protocolo de passagem da UI/UX para a implementação técnica.
+Protocolo de passagem da definição de interface para implementação.
 
-## 📥 Entradas (Designer -> Dev)
-1. **Link do Protótipo (ex: Figma).**
-2. **Component Specification:** Especificação técnica de cores, fontes, paddings.
-3. **Assets Exportados:** Ícones, imagens, fontes.
+## Entrada mínima
+1. Spec real da feature em `designer/specs/<feature>_spec.md`
+2. Flow real da feature em `designer/flows/<feature>_flow.md`
+3. Estados, erros, vazios e comportamentos relevantes descritos
 
-## 📤 Saídas (Dev -> Designer)
-1. **Sandbox/Dev Environment:** Para revisão visual (Design QA).
-2. **Feedback de Viabilidade Técnica.**
+## Saída esperada
+1. Implementação no stack adequado
+2. Feedback técnico quando houver restrição ou ajuste necessário
+3. Indicação do que QA deve observar com mais atenção
 
-## ✅ Checklist de Pronto (Definition of Ready)
-- [ ] Todos os estados (Hover, Disabled, Error) foram definidos?
-- [ ] O fluxo de erro (Empty States, Falha de API) está especificado?
-- [ ] Os assets estão acessíveis e nomeados conforme padrão?
+## Definition of Ready
+- [ ] Os estados principais e extremos estão descritos
+- [ ] O comportamento está claro o suficiente para implementação
+- [ ] O time de dev não precisa inferir regras centrais sozinho

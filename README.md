@@ -15,6 +15,7 @@ Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por e
 - `product-owner/`
 - `dev-backend/`
 - `dev-frontend/`
+- `code-reviewer/`
 - `qa-engineer/`
 - `data-engineer/`
 - `infra/`
@@ -31,7 +32,7 @@ Cada papel segue a mesma convenção:
 ## Camadas do Framework
 1. Nível de definição: `agent.md`
 2. Nível de conhecimento: `skills/`
-3. Nível de execução: `templates/`, `tools.md`, artefatos reais por feature e scripts de validação
+3. Nível de execução: `templates/`, `tools.md`, artifacts de transição e scripts de validação
 
 ## Recursos Compartilhados
 
@@ -44,15 +45,31 @@ Cada papel segue a mesma convenção:
 - `product-owner-to-designer.md`
 - `designer-to-dev.md`
 - `dev-to-qa.md`
+- `qa-to-code-review.md`
 
-## Artefatos Reais
-- `product-owner/stories/`: histórias reais por feature.
+## Política de Artifacts
+Artifacts existem apenas quando destravam o próximo papel.
+
+### Artifacts obrigatórios de transição
+- `product-owner/stories/`: stories reais por feature.
 - `designer/specs/`: especificações de interface por feature.
 - `designer/flows/`: fluxos de usuário por feature.
+
+### Artifacts opcionais
+- `qa-engineer/test-plans/`: só para features com risco relevante, integração sensível ou regressão cara.
+- `code-reviewer/reviews/`: só quando a mudança exigir rastreabilidade formal de revisão técnica.
+- `infra/plans/`: só quando houver ambiente, deploy, observabilidade, runtime ou operação nova.
+
+### O que não virar artifact por padrão
+- notas genéricas de implementação backend;
+- notas genéricas de implementação frontend;
+- documentação intermediária que não destrava ninguém;
+- duplicação do que já está claro no código, no commit ou no handoff.
 
 ## Direcionamento Técnico Atual
 - `dev-backend`: Python, FastAPI, Django, API-first, spec-driven, DDD, TDD, clean code e design patterns.
 - `dev-frontend`: Streamlit, Vue, Tailwind e bibliotecas que reduzam tempo de entrega sem criar acoplamento desnecessário.
+- `code-reviewer`: revisão orientada a risco com foco em regressão, segurança, arquitetura, testes e merge readiness.
 - `qa-engineer`: pytest, Postman, Bandit e validação orientada a risco nesse ecossistema.
 - `infra`: Docker, logs, observabilidade e operação enxuta.
 
@@ -60,7 +77,7 @@ Cada papel segue a mesma convenção:
 1. Ler o `agent.md` do papel principal.
 2. Ler de 1 a 3 arquivos em `skills/` diretamente relacionados à tarefa.
 3. Consultar `shared/context/` e o handoff aplicável antes de executar.
-4. Produzir ou atualizar o artefato real da feature.
+4. Produzir artifact real apenas se ele destravar o próximo papel.
 5. Rodar os validadores em `scripts/` antes de avançar de etapa.
 
 ## Regras de Qualidade
@@ -69,6 +86,7 @@ Cada papel segue a mesma convenção:
 - Tratar `skills/` como referência operacional, não como checklist cego.
 - Produzir saídas que possam ser consumidas por outro especialista sem reinterpretação.
 - Sempre explicitar riscos, lacunas e dependências relevantes.
+- Não criar artifact só para “deixar registrado”; artifact sem consumidor é ruído.
 
 ## Convenções de Conteúdo
 - Todos os arquivos `.md` devem ficar em UTF-8.
@@ -81,3 +99,4 @@ Cada papel segue a mesma convenção:
 - Adicione novos templates apenas quando reduzirem esforço real e forem reutilizáveis.
 - Evite pastas paralelas com a mesma responsabilidade.
 - Para criar um novo agente, consulte `guide/new-agent.md`.
+- Para entender os gates de validação e handoff, consulte `guide/validation-flows.md`.

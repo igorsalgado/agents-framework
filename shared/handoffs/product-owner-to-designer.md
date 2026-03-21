@@ -1,18 +1,18 @@
 # Handoff: Product Owner to Designer
 
-Protocolo de passagem de bastão da definição de negócio para a experiência do usuário.
+Protocolo de passagem do problema de negócio para a definição de experiência.
 
-## 📥 Entradas (PO -> Designer)
-1. **User Story (Concluída):** Com critérios de aceite claros.
-2. **Contexto de Negócio:** Por que esta funcionalidade agora?
-3. **Restrições:** Ex: "Deve funcionar em mobile".
+## Entrada mínima
+1. Story real da feature em `product-owner/stories/<feature>.md`
+2. Contexto de negócio relevante
+3. Restrições importantes de prazo, canal, marca ou plataforma
 
-## 📤 Saídas (Designer -> PO)
-1. **Protótipo de Baixa/Alta Fidelidade.**
-2. **User Flow Validado.**
-3. **Lista de Dúvidas Técnicas.**
+## Saída esperada
+1. Spec de interface em `designer/specs/<feature>_spec.md`
+2. Flow em `designer/flows/<feature>_flow.md`
+3. Dúvidas ou riscos que precisem voltar para PO
 
-## ✅ Checklist de Pronto (Definition of Ready)
-- [ ] A User Story foi lida e compreendida pelo Designer?
-- [ ] O Designer tem acesso ao Glossário do Domínio?
-- [ ] O Designer conhece as restrições de tempo/marca?
+## Definition of Ready
+- [ ] A story está clara e com critérios de aceite verificáveis
+- [ ] O designer conhece o problema e o contexto
+- [ ] Há insumo suficiente para produzir spec e flow sem adivinhação excessiva
