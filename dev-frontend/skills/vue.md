@@ -25,7 +25,7 @@ Use esta skill para construir interfaces web com composição de componentes, ro
 - Escolher biblioteca por moda em vez de necessidade do produto.
 
 ## Referências
-- [Vue Guide](https://r.jina.ai/http://https://vuejs.org/guide/introduction)
-- [Vue Style Guide](https://r.jina.ai/http://https://vuejs.org/style-guide/)
-- [Vue Router](https://r.jina.ai/http://https://router.vuejs.org/)
+- [Vue Guide](https://r.jina.ai/https://vuejs.org/guide/introduction)
+- [Vue Style Guide](https://r.jina.ai/https://vuejs.org/style-guide/)
+- [Vue Router](https://r.jina.ai/https://router.vuejs.org/)
 

@@ -23,6 +23,6 @@ Use esta skill para validar tempo de resposta, estabilidade, capacidade, experi�
 - Confundir lentidão local com limite sistêmico.
 
 ## Referências
-- [Grafana k6 Docs](https://r.jina.ai/http://https://grafana.com/docs/k6/latest/)
-- [Chrome Lighthouse Overview](https://r.jina.ai/http://https://developer.chrome.com/docs/lighthouse/overview/)
-- [web.dev: Core Web Vitals](https://r.jina.ai/http://https://web.dev/articles/vitals)
+- [Grafana k6 Docs](https://r.jina.ai/https://grafana.com/docs/k6/latest/)
+- [Chrome Lighthouse Overview](https://r.jina.ai/https://developer.chrome.com/docs/lighthouse/overview/)
+- [web.dev: Core Web Vitals](https://r.jina.ai/https://web.dev/articles/vitals)

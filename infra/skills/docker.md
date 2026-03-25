@@ -25,7 +25,7 @@ Use esta skill para empacotar aplicações, padronizar runtime e reduzir diferen
 - Empacotamento complexo que só o autor entende.
 
 ## Referências
-- [Docker Overview](https://r.jina.ai/http://https://docs.docker.com/get-started/docker-overview/)
-- [Dockerfile Reference](https://r.jina.ai/http://https://docs.docker.com/reference/dockerfile/)
-- [Docker Build Best Practices](https://r.jina.ai/http://https://docs.docker.com/build/building/best-practices/)
+- [Docker Overview](https://r.jina.ai/https://docs.docker.com/get-started/docker-overview/)
+- [Dockerfile Reference](https://r.jina.ai/https://docs.docker.com/reference/dockerfile/)
+- [Docker Build Best Practices](https://r.jina.ai/https://docs.docker.com/build/building/best-practices/)
 

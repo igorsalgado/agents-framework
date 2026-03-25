@@ -22,6 +22,6 @@ Use esta skill para fazer uma triagem pragmática de segurança estática e comp
 - Abrir bug sem trecho, contexto ou severidade.
 
 ## Referências
-- [Bandit Documentation](https://r.jina.ai/http://https://bandit.readthedocs.io/en/latest/)
-- [OWASP Web Security Testing Guide](https://r.jina.ai/http://https://owasp.org/www-project-web-security-testing-guide/)
-- [Pytest: Getting Started](https://r.jina.ai/http://https://docs.pytest.org/en/stable/getting-started.html)
+- [Bandit Documentation](https://r.jina.ai/https://bandit.readthedocs.io/en/latest/)
+- [OWASP Web Security Testing Guide](https://r.jina.ai/https://owasp.org/www-project-web-security-testing-guide/)
+- [Pytest: Getting Started](https://r.jina.ai/https://docs.pytest.org/en/stable/getting-started.html)

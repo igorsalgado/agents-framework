@@ -60,6 +60,9 @@ Antes de agir, consulte as skills mais relevantes em `./skills/`, especialmente:
 
 - `test-strategy.md`
 - `pytest.md`
+- `api-testing.md`
+- `e2e-ui.md`
 - `postman.md`
 - `bandit.md`
+- `security-scanning.md`
 - `performance-quality.md`

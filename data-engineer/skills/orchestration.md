@@ -23,6 +23,6 @@ Use esta skill para agendar, encadear, monitorar e recuperar pipelines e jobs de
 - Retry infinito mascarando falha sistêmica.
 
 ## Referências
-- [Apache Airflow Docs](https://r.jina.ai/http://https://airflow.apache.org/docs/)
-- [Apache Airflow: Core Concepts](https://r.jina.ai/http://https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/overview.html)
-- [dbt Docs: Deploy](https://r.jina.ai/http://https://docs.getdbt.com/docs/deploy)
+- [Apache Airflow Docs](https://r.jina.ai/https://airflow.apache.org/docs/)
+- [Apache Airflow: Core Concepts](https://r.jina.ai/https://airflow.apache.org/docs/apache-airflow/stable/core-concepts/overview.html)
+- [dbt Docs: Deploy](https://r.jina.ai/https://docs.getdbt.com/docs/deploy)

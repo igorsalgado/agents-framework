@@ -22,6 +22,6 @@ Use esta skill para acelerar a construção visual com consistência, responsivi
 - Customização excessiva que anula o ganho da stack.
 
 ## Referências
-- [Tailwind CSS Documentation](https://r.jina.ai/http://https://tailwindcss.com/docs/installation)
-- [Vue Guide](https://r.jina.ai/http://https://vuejs.org/guide/introduction)
-- [W3C WAI: Introduction to Accessibility](https://r.jina.ai/http://https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+- [Tailwind CSS Documentation](https://r.jina.ai/https://tailwindcss.com/docs/installation)
+- [Vue Guide](https://r.jina.ai/https://vuejs.org/guide/introduction)
+- [W3C WAI: Introduction to Accessibility](https://r.jina.ai/https://www.w3.org/WAI/fundamentals/accessibility-intro/)

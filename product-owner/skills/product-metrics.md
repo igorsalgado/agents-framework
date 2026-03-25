@@ -24,6 +24,6 @@ Use esta skill para definir métricas de sucesso, métricas de aprendizagem, gua
 - Medir atividade do time em vez de efeito no usuário ou negócio.
 
 ## Referências
-- [Scrum.org: Evidence-Based Management Guide](https://r.jina.ai/http://https://www.scrum.org/resources/evidence-based-management-guide)
-- [Scrum.org: Evidence-Based Management Overview](https://r.jina.ai/http://https://www.scrum.org/resources/evidence-based-management)
-- [Atlassian: Product Roadmaps](https://r.jina.ai/http://https://www.atlassian.com/agile/product-management/product-roadmaps)
+- [Scrum.org: Evidence-Based Management Guide](https://r.jina.ai/https://www.scrum.org/resources/evidence-based-management-guide)
+- [Scrum.org: Evidence-Based Management Overview](https://r.jina.ai/https://www.scrum.org/resources/evidence-based-management)
+- [Atlassian: Product Roadmaps](https://r.jina.ai/https://www.atlassian.com/agile/product-management/product-roadmaps)

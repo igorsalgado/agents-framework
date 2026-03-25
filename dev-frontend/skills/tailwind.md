@@ -25,7 +25,7 @@ Use esta skill para acelerar construção visual com consistência, utilitários
 - Componentes visualmente corretos, mas sem foco, contraste ou semântica adequados.
 
 ## Referências
-- [Tailwind Documentation](https://r.jina.ai/http://https://tailwindcss.com/docs/installation)
-- [Tailwind Responsive Design](https://r.jina.ai/http://https://tailwindcss.com/docs/responsive-design)
-- [Headless UI](https://r.jina.ai/http://https://headlessui.com/)
+- [Tailwind Documentation](https://r.jina.ai/https://tailwindcss.com/docs/installation)
+- [Tailwind Responsive Design](https://r.jina.ai/https://tailwindcss.com/docs/responsive-design)
+- [Headless UI](https://r.jina.ai/https://headlessui.com/)
 

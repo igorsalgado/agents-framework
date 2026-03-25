@@ -25,7 +25,7 @@ Use esta skill para ferramentas internas, protótipos úteis, dashboards e inter
 - Construir interface visualmente densa sem hierarquia clara.
 
 ## Referências
-- [Streamlit Documentation](https://r.jina.ai/http://https://docs.streamlit.io/)
-- [Streamlit API Reference](https://r.jina.ai/http://https://docs.streamlit.io/develop/api-reference)
-- [Multipage Apps](https://r.jina.ai/http://https://docs.streamlit.io/develop/concepts/multipage-apps/overview)
+- [Streamlit Documentation](https://r.jina.ai/https://docs.streamlit.io/)
+- [Streamlit API Reference](https://r.jina.ai/https://docs.streamlit.io/develop/api-reference)
+- [Multipage Apps](https://r.jina.ai/https://docs.streamlit.io/develop/concepts/multipage-apps/overview)
 

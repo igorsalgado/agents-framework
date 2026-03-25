@@ -23,6 +23,6 @@ Use esta skill para comunicar direção, sequencing, dependências e aprendizado
 - Confundir visão com cronograma detalhado.
 
 ## Referências
-- [Atlassian: Product Roadmaps](https://r.jina.ai/http://https://www.atlassian.com/agile/product-management/product-roadmaps)
-- [Scrum Guide](https://r.jina.ai/http://https://scrumguides.org/scrum-guide.html)
-- [Scrum.org: Evidence-Based Management](https://r.jina.ai/http://https://www.scrum.org/resources/evidence-based-management-guide)
+- [Atlassian: Product Roadmaps](https://r.jina.ai/https://www.atlassian.com/agile/product-management/product-roadmaps)
+- [Scrum Guide](https://r.jina.ai/https://scrumguides.org/scrum-guide.html)
+- [Scrum.org: Evidence-Based Management](https://r.jina.ai/https://www.scrum.org/resources/evidence-based-management-guide)

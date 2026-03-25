@@ -87,7 +87,7 @@ Artifacts existem apenas quando destravam o próximo papel.
 5. Rodar os validadores em `scripts/` antes de avançar de etapa.
 
 ## Regras de Qualidade
-- Assumir `C:\Users\Igor\Desktop\Dev` como base principal de trabalho.
+- Assumir `C:\Users\Igor Andrade\Desktop\Dev` como base principal de trabalho.
 - Priorizar contexto local e documentação oficial antes de improvisar.
 - Tratar `skills/` como referência operacional, não como checklist cego.
 - Produzir saídas que possam ser consumidas por outro especialista sem reinterpretação.

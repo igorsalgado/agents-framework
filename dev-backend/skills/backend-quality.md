@@ -26,7 +26,7 @@ Use esta skill para definir estratégia de teste, observabilidade mínima e crit
 - Segurança reduzida a checklist sem análise do fluxo real.
 
 ## Referências
-- [Pytest: Getting Started](https://r.jina.ai/http://https://docs.pytest.org/en/stable/getting-started.html)
-- [FastAPI Testing](https://r.jina.ai/http://https://fastapi.tiangolo.com/tutorial/testing/)
-- [Django Testing Tools](https://r.jina.ai/http://https://docs.djangoproject.com/en/stable/topics/testing/tools/)
-- [OpenTelemetry Docs](https://r.jina.ai/http://https://opentelemetry.io/docs/)
+- [Pytest: Getting Started](https://r.jina.ai/https://docs.pytest.org/en/stable/getting-started.html)
+- [FastAPI Testing](https://r.jina.ai/https://fastapi.tiangolo.com/tutorial/testing/)
+- [Django Testing Tools](https://r.jina.ai/https://docs.djangoproject.com/en/stable/topics/testing/tools/)
+- [OpenTelemetry Docs](https://r.jina.ai/https://opentelemetry.io/docs/)

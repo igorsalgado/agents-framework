@@ -23,6 +23,6 @@ Use esta skill para modelagem relacional, queries, transações, índices, migra
 - Regra de negócio crítica escondida em trigger sem documentação.
 
 ## Referências
-- [PostgreSQL Documentation](https://r.jina.ai/http://https://www.postgresql.org/docs/current/index.html)
-- [PostgreSQL: Transactions](https://r.jina.ai/http://https://www.postgresql.org/docs/current/tutorial-transactions.html)
-- [PostgreSQL: Indexes](https://r.jina.ai/http://https://www.postgresql.org/docs/current/indexes.html)
+- [PostgreSQL Documentation](https://r.jina.ai/https://www.postgresql.org/docs/current/index.html)
+- [PostgreSQL: Transactions](https://r.jina.ai/https://www.postgresql.org/docs/current/tutorial-transactions.html)
+- [PostgreSQL: Indexes](https://r.jina.ai/https://www.postgresql.org/docs/current/indexes.html)

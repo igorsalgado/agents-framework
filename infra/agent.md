@@ -60,6 +60,8 @@ Antes de agir, consulte as skills mais relevantes em `./skills/`, especialmente:
 
 - `docker.md`
 - `compose.md`
+- `docker-runtime.md`
 - `logging.md`
+- `logging-observability.md`
 - `observability.md`
 - `deployment-hygiene.md`

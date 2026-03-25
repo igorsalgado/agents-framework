@@ -25,7 +25,7 @@ Use esta skill para escrever e organizar testes reproduzíveis em Python com foc
 - Automatizar fluxo de baixo valor e deixar risco crítico sem cobertura.
 
 ## Referências
-- [Pytest Documentation](https://r.jina.ai/http://https://docs.pytest.org/en/stable/)
-- [Pytest Fixtures](https://r.jina.ai/http://https://docs.pytest.org/en/stable/how-to/fixtures.html)
-- [Pytest Good Practices](https://r.jina.ai/http://https://docs.pytest.org/en/stable/explanation/goodpractices.html)
+- [Pytest Documentation](https://r.jina.ai/https://docs.pytest.org/en/stable/)
+- [Pytest Fixtures](https://r.jina.ai/https://docs.pytest.org/en/stable/how-to/fixtures.html)
+- [Pytest Good Practices](https://r.jina.ai/https://docs.pytest.org/en/stable/explanation/goodpractices.html)
 

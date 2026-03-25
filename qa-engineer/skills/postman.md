@@ -25,7 +25,7 @@ Use esta skill para explorar, validar e documentar APIs quando coleções e cen�
 - Tratar execução manual repetitiva como estratégia suficiente.
 
 ## Referências
-- [Postman Docs Overview](https://r.jina.ai/http://https://learning.postman.com/docs/introduction/overview/)
-- [Postman Collections](https://r.jina.ai/http://https://learning.postman.com/docs/collections/using-collections/)
-- [Newman](https://r.jina.ai/http://https://learning.postman.com/docs/collections/using-newman-cli/overview/)
+- [Postman Docs Overview](https://r.jina.ai/https://learning.postman.com/docs/introduction/overview/)
+- [Postman Collections](https://r.jina.ai/https://learning.postman.com/docs/collections/using-collections/)
+- [Newman](https://r.jina.ai/https://learning.postman.com/docs/collections/using-newman-cli/overview/)
 

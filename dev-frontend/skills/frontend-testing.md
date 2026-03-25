@@ -24,7 +24,7 @@ Use esta skill para validar comportamento de interface em Vue ou Streamlit, inte
 - Cobertura “bonita” sem proteger comportamento relevante.
 
 ## Referências
-- [Vitest Guide](https://r.jina.ai/http://https://vitest.dev/guide/)
-- [Vue Test Utils](https://r.jina.ai/http://https://test-utils.vuejs.org/)
-- [Playwright Intro](https://r.jina.ai/http://https://playwright.dev/docs/intro)
-- [Streamlit Documentation](https://r.jina.ai/http://https://docs.streamlit.io/)
+- [Vitest Guide](https://r.jina.ai/https://vitest.dev/guide/)
+- [Vue Test Utils](https://r.jina.ai/https://test-utils.vuejs.org/)
+- [Playwright Intro](https://r.jina.ai/https://playwright.dev/docs/intro)
+- [Streamlit Documentation](https://r.jina.ai/https://docs.streamlit.io/)

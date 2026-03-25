@@ -22,6 +22,6 @@ Use esta skill para descoberta de fluxo, arquitetura de informação, priorizaç
 - Descoberta baseada apenas em opinião interna.
 
 ## Referências
-- [W3C WAI: Introduction to Accessibility](https://r.jina.ai/http://https://www.w3.org/WAI/fundamentals/accessibility-intro/)
-- [Material 3: Content Design Overview](https://r.jina.ai/http://https://m3.material.io/foundations/content-design/overview)
-- [Usability.gov: User-Centered Design Basics](https://r.jina.ai/http://https://www.usability.gov/what-and-why/user-centered-design.html)
+- [W3C WAI: Introduction to Accessibility](https://r.jina.ai/https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+- [Material 3: Content Design Overview](https://r.jina.ai/https://m3.material.io/foundations/content-design/overview)
+- [Usability.gov: User-Centered Design Basics](https://r.jina.ai/https://www.usability.gov/what-and-why/user-centered-design.html)

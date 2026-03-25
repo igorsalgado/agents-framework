@@ -25,6 +25,6 @@ Use esta skill para implementar, refatorar ou revisar backend em Python com foco
 - Tipagem ornamental que dificulta mais do que ajuda.
 
 ## Referências
-- [Python Documentation](https://r.jina.ai/http://https://docs.python.org/3/)
-- [Python Typing](https://r.jina.ai/http://https://docs.python.org/3/library/typing.html)
-- [Python Packaging User Guide](https://r.jina.ai/http://https://packaging.python.org/)
+- [Python Documentation](https://r.jina.ai/https://docs.python.org/3/)
+- [Python Typing](https://r.jina.ai/https://docs.python.org/3/library/typing.html)
+- [Python Packaging User Guide](https://r.jina.ai/https://packaging.python.org/)

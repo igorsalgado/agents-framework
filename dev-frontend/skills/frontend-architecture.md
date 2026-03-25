@@ -25,6 +25,6 @@ Use esta skill para decidir a arquitetura da interface, a escolha entre Streamli
 - Acoplamento excessivo entre layout, dados e side effects.
 
 ## Referências
-- [Streamlit Documentation](https://r.jina.ai/http://https://docs.streamlit.io/)
-- [Vue Guide](https://r.jina.ai/http://https://vuejs.org/guide/introduction)
-- [Vite Guide](https://r.jina.ai/http://https://vite.dev/guide/)
+- [Streamlit Documentation](https://r.jina.ai/https://docs.streamlit.io/)
+- [Vue Guide](https://r.jina.ai/https://vuejs.org/guide/introduction)
+- [Vite Guide](https://r.jina.ai/https://vite.dev/guide/)

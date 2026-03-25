@@ -22,6 +22,6 @@ Use esta skill para validar schema, completude, unicidade, consistência e confi
 - Aceitar quebra de contrato sem versionamento ou comunicação.
 
 ## Referências
-- [dbt Docs: Data Tests](https://r.jina.ai/http://https://docs.getdbt.com/docs/build/data-tests)
-- [Great Expectations Docs](https://r.jina.ai/http://https://docs.greatexpectations.io/docs/home)
-- [Apache Airflow Docs](https://r.jina.ai/http://https://airflow.apache.org/docs/)
+- [dbt Docs: Data Tests](https://r.jina.ai/https://docs.getdbt.com/docs/build/data-tests)
+- [Great Expectations Docs](https://r.jina.ai/https://docs.greatexpectations.io/docs/home)
+- [Apache Airflow Docs](https://r.jina.ai/https://airflow.apache.org/docs/)

@@ -22,6 +22,6 @@ Use esta skill para revisar separação de camadas, acoplamento, contratos, inva
 - Aceitar solução "funciona agora" que fragiliza o contrato central.
 
 ## Referências
-- [Martin Fowler: Refactoring Catalog](https://r.jina.ai/http://https://refactoring.com/catalog/)
-- [FastAPI: Bigger Applications](https://r.jina.ai/http://https://fastapi.tiangolo.com/tutorial/bigger-applications/)
-- [Vue Style Guide](https://r.jina.ai/http://https://vuejs.org/style-guide/)
+- [Martin Fowler: Refactoring Catalog](https://r.jina.ai/https://refactoring.com/catalog/)
+- [FastAPI: Bigger Applications](https://r.jina.ai/https://fastapi.tiangolo.com/tutorial/bigger-applications/)
+- [Vue Style Guide](https://r.jina.ai/https://vuejs.org/style-guide/)

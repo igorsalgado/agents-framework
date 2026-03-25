@@ -22,6 +22,6 @@ Use esta skill para padronizar componentes, tokens, nomenclatura e governança e
 - Variantes criadas para “resolver rápido” sem governança.
 
 ## Referências
-- [Figma: Design Systems](https://r.jina.ai/http://https://www.figma.com/design-systems/)
-- [ARIA Authoring Practices Guide](https://r.jina.ai/http://https://www.w3.org/WAI/ARIA/apg/)
-- [Material Design 3](https://r.jina.ai/http://https://m3.material.io/)
+- [Figma: Design Systems](https://r.jina.ai/https://www.figma.com/design-systems/)
+- [ARIA Authoring Practices Guide](https://r.jina.ai/https://www.w3.org/WAI/ARIA/apg/)
+- [Material Design 3](https://r.jina.ai/https://m3.material.io/)

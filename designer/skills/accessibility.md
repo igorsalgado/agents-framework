@@ -23,6 +23,6 @@ Use esta skill sempre que a interface tiver interação, conteúdo textual, nave
 - Mensagem de erro genérica sem orientação de correção.
 
 ## Referências
-- [W3C WAI: Introduction to Accessibility](https://r.jina.ai/http://https://www.w3.org/WAI/fundamentals/accessibility-intro/)
-- [W3C: WCAG Overview](https://r.jina.ai/http://https://www.w3.org/WAI/standards-guidelines/wcag/)
-- [WAI ARIA APG](https://r.jina.ai/http://https://www.w3.org/WAI/ARIA/apg/)
+- [W3C WAI: Introduction to Accessibility](https://r.jina.ai/https://www.w3.org/WAI/fundamentals/accessibility-intro/)
+- [W3C: WCAG Overview](https://r.jina.ai/https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [WAI ARIA APG](https://r.jina.ai/https://www.w3.org/WAI/ARIA/apg/)

@@ -22,6 +22,6 @@ Use esta skill para definir aparência, hierarquia visual, composição, densida
 - Componentes com estados incompletos.
 
 ## Referências
-- [Material Design 3](https://r.jina.ai/http://https://m3.material.io/)
-- [MDN: CSS](https://r.jina.ai/http://https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [Figma: Design Systems](https://r.jina.ai/http://https://www.figma.com/design-systems/)
+- [Material Design 3](https://r.jina.ai/https://m3.material.io/)
+- [MDN: CSS](https://r.jina.ai/https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Figma: Design Systems](https://r.jina.ai/https://www.figma.com/design-systems/)

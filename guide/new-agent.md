@@ -20,10 +20,10 @@ Não crie se:
 - o novo agente só duplicar stack ou comportamento já coberto.
 
 ## Estrutura Obrigatória
-Crie uma pasta em kebab-case:
+Crie uma pasta em kebab-case na raiz do framework:
 
 ```text
-agents/<nome-do-papel>/
+<nome-do-papel>/
   agent.md
   tools.md
   skills/

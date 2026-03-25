@@ -25,7 +25,7 @@ Use esta skill para validar contratos, autenticação, tratamento de erro, compa
 - Testar só o happy path.
 
 ## Referências
-- [Postman Docs Overview](https://r.jina.ai/http://https://learning.postman.com/docs/introduction/overview/)
-- [Pytest: Getting Started](https://r.jina.ai/http://https://docs.pytest.org/en/stable/getting-started.html)
-- [FastAPI Testing](https://r.jina.ai/http://https://fastapi.tiangolo.com/tutorial/testing/)
-- [OWASP Web Security Testing Guide](https://r.jina.ai/http://https://owasp.org/www-project-web-security-testing-guide/)
+- [Postman Docs Overview](https://r.jina.ai/https://learning.postman.com/docs/introduction/overview/)
+- [Pytest: Getting Started](https://r.jina.ai/https://docs.pytest.org/en/stable/getting-started.html)
+- [FastAPI Testing](https://r.jina.ai/https://fastapi.tiangolo.com/tutorial/testing/)
+- [OWASP Web Security Testing Guide](https://r.jina.ai/https://owasp.org/www-project-web-security-testing-guide/)

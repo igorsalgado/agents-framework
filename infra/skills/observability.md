@@ -25,7 +25,7 @@ Use esta skill para definir sinais mínimos de saúde, diagnóstico e acompanham
 - Investir em painel bonito antes de definir pergunta operacional.
 
 ## Referências
-- [OpenTelemetry Docs](https://r.jina.ai/http://https://opentelemetry.io/docs/)
-- [Grafana Documentation](https://r.jina.ai/http://https://grafana.com/docs/)
-- [Grafana Loki Docs](https://r.jina.ai/http://https://grafana.com/docs/loki/latest/)
+- [OpenTelemetry Docs](https://r.jina.ai/https://opentelemetry.io/docs/)
+- [Grafana Documentation](https://r.jina.ai/https://grafana.com/docs/)
+- [Grafana Loki Docs](https://r.jina.ai/https://grafana.com/docs/loki/latest/)
 

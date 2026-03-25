@@ -23,5 +23,5 @@ Use esta skill para estruturar uma revisão a partir do diff, do contexto da fea
 - Revisar sem entender o requisito ou o fluxo validado por QA.
 
 ## Referências
-- [Google Engineering Practices: The Standard of Code Review](https://r.jina.ai/http://https://google.github.io/eng-practices/review/reviewer/standard.html)
-- [Google Engineering Practices: How to Do a Code Review](https://r.jina.ai/http://https://google.github.io/eng-practices/review/reviewer/)
+- [Google Engineering Practices: The Standard of Code Review](https://r.jina.ai/https://google.github.io/eng-practices/review/reviewer/standard.html)
+- [Google Engineering Practices: How to Do a Code Review](https://r.jina.ai/https://google.github.io/eng-practices/review/reviewer/)

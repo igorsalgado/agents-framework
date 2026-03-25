@@ -22,6 +22,6 @@ Use esta skill para estruturar, priorizar, refinar e manter backlog orientado a 
 - Priorização sem justificativa.
 
 ## Referências
-- [Atlassian: Jira Backlog Software](https://r.jina.ai/http://https://www.atlassian.com/software/jira/features/backlog-software)
-- [Atlassian: User Stories](https://r.jina.ai/http://https://www.atlassian.com/agile/project-management/user-stories)
-- [Scrum Guide](https://r.jina.ai/http://https://scrumguides.org/scrum-guide.html)
+- [Atlassian: Jira Backlog Software](https://r.jina.ai/https://www.atlassian.com/software/jira/features/backlog-software)
+- [Atlassian: User Stories](https://r.jina.ai/https://www.atlassian.com/agile/project-management/user-stories)
+- [Scrum Guide](https://r.jina.ai/https://scrumguides.org/scrum-guide.html)

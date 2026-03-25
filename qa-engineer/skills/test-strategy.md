@@ -24,6 +24,6 @@ Use esta skill para decidir o que testar, em que camada, com qual profundidade e
 - Plano de teste desconectado da arquitetura real.
 
 ## Referências
-- [OWASP Web Security Testing Guide](https://r.jina.ai/http://https://owasp.org/www-project-web-security-testing-guide/)
-- [Pytest: Getting Started](https://r.jina.ai/http://https://docs.pytest.org/en/stable/getting-started.html)
-- [Postman Docs Overview](https://r.jina.ai/http://https://learning.postman.com/docs/introduction/overview/)
+- [OWASP Web Security Testing Guide](https://r.jina.ai/https://owasp.org/www-project-web-security-testing-guide/)
+- [Pytest: Getting Started](https://r.jina.ai/https://docs.pytest.org/en/stable/getting-started.html)
+- [Postman Docs Overview](https://r.jina.ai/https://learning.postman.com/docs/introduction/overview/)

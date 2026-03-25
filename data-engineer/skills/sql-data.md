@@ -22,6 +22,6 @@ Use esta skill para escrever SQL analítico legível, performático o suficiente
 - Query que mistura staging, business logic e saída final sem separação.
 
 ## Referências
-- [SQLFluff Docs](https://r.jina.ai/http://https://docs.sqlfluff.com/)
-- [PostgreSQL Documentation](https://r.jina.ai/http://https://www.postgresql.org/docs/current/index.html)
-- [DuckDB Documentation](https://r.jina.ai/http://https://duckdb.org/docs/stable/)
+- [SQLFluff Docs](https://r.jina.ai/https://docs.sqlfluff.com/)
+- [PostgreSQL Documentation](https://r.jina.ai/https://www.postgresql.org/docs/current/index.html)
+- [DuckDB Documentation](https://r.jina.ai/https://duckdb.org/docs/stable/)

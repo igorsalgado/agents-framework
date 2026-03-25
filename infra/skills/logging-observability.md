@@ -23,6 +23,6 @@ Use esta skill para definir logs, sinais mínimos de saúde e telemetria útil p
 - Silenciar erro para “limpar log”.
 
 ## Referências
-- [Python Logging](https://r.jina.ai/http://https://docs.python.org/3/library/logging.html)
-- [OpenTelemetry Docs](https://r.jina.ai/http://https://opentelemetry.io/docs/)
-- [Grafana Loki Docs](https://r.jina.ai/http://https://grafana.com/docs/loki/latest/)
+- [Python Logging](https://r.jina.ai/https://docs.python.org/3/library/logging.html)
+- [OpenTelemetry Docs](https://r.jina.ai/https://opentelemetry.io/docs/)
+- [Grafana Loki Docs](https://r.jina.ai/https://grafana.com/docs/loki/latest/)

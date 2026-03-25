@@ -25,7 +25,7 @@ Use esta skill para definir estratégia de logs que permita entender comportamen
 - Tornar troubleshooting dependente de prints arbitrários e não padronizados.
 
 ## Referências
-- [The Twelve-Factor App: Logs](https://r.jina.ai/http://https://12factor.net/logs)
-- [Docker: Configure Logging Drivers](https://r.jina.ai/http://https://docs.docker.com/engine/logging/configure/)
-- [OpenTelemetry Logs](https://r.jina.ai/http://https://opentelemetry.io/docs/concepts/signals/logs/)
+- [The Twelve-Factor App: Logs](https://r.jina.ai/https://12factor.net/logs)
+- [Docker: Configure Logging Drivers](https://r.jina.ai/https://docs.docker.com/engine/logging/configure/)
+- [OpenTelemetry Logs](https://r.jina.ai/https://opentelemetry.io/docs/concepts/signals/logs/)
 

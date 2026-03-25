@@ -22,6 +22,6 @@ Use esta skill para avaliar se a mudança está protegida por testes proporciona
 - Tratar QA manual como substituto permanente de automação em fluxo crítico.
 
 ## Referências
-- [Pytest Documentation](https://r.jina.ai/http://https://docs.pytest.org/en/stable/)
-- [Vitest Guide](https://r.jina.ai/http://https://vitest.dev/guide/)
-- [Google Testing Blog](https://r.jina.ai/http://https://testing.googleblog.com/)
+- [Pytest Documentation](https://r.jina.ai/https://docs.pytest.org/en/stable/)
+- [Vitest Guide](https://r.jina.ai/https://vitest.dev/guide/)
+- [Google Testing Blog](https://r.jina.ai/https://testing.googleblog.com/)

@@ -61,7 +61,9 @@ Antes de agir, consulte as skills mais relevantes em `./skills/`, especialmente:
 
 - `frontend-architecture.md`
 - `vue.md`
+- `vue-streamlit.md`
 - `streamlit.md`
 - `tailwind.md`
+- `tailwind-ui.md`
 - `ui-accessibility.md`
 - `frontend-testing.md`

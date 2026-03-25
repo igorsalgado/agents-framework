@@ -44,9 +44,9 @@ Use esta skill para escolher, aplicar ou revisar design patterns quando a soluç
 - Se o código ainda está rígido, acoplado ou cheio de smells, normalmente vale refatorar antes de consolidar um pattern.
 
 ## Referências
-- [Refactoring.Guru: Design Patterns](https://r.jina.ai/http://https://refactoring.guru/design-patterns)
-- [Refactoring.Guru: Catalog of Design Patterns](https://r.jina.ai/http://https://refactoring.guru/design-patterns/catalog)
-- [Refactoring.Guru: Why Should I Learn Patterns?](https://r.jina.ai/http://https://refactoring.guru/design-patterns/why-learn-patterns)
-- [Refactoring.Guru: Classification of Patterns](https://r.jina.ai/http://https://refactoring.guru/design-patterns/classification)
-- [Refactoring.Guru: Criticism of Patterns](https://r.jina.ai/http://https://refactoring.guru/design-patterns/criticism)
-- [Refactoring.Guru: Refactoring](https://r.jina.ai/http://https://refactoring.guru/refactoring)
+- [Refactoring.Guru: Design Patterns](https://r.jina.ai/https://refactoring.guru/design-patterns)
+- [Refactoring.Guru: Catalog of Design Patterns](https://r.jina.ai/https://refactoring.guru/design-patterns/catalog)
+- [Refactoring.Guru: Why Should I Learn Patterns?](https://r.jina.ai/https://refactoring.guru/design-patterns/why-learn-patterns)
+- [Refactoring.Guru: Classification of Patterns](https://r.jina.ai/https://refactoring.guru/design-patterns/classification)
+- [Refactoring.Guru: Criticism of Patterns](https://r.jina.ai/https://refactoring.guru/design-patterns/criticism)
+- [Refactoring.Guru: Refactoring](https://r.jina.ai/https://refactoring.guru/refactoring)

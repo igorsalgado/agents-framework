@@ -25,7 +25,7 @@ Use esta skill para triagem estática inicial de segurança em código Python, e
 - Rodar a ferramenta e ignorar sistematicamente o resultado sem triagem.
 
 ## Referências
-- [Bandit Documentation](https://r.jina.ai/http://https://bandit.readthedocs.io/en/latest/)
-- [Bandit Configuration](https://r.jina.ai/http://https://bandit.readthedocs.io/en/latest/config.html)
-- [OWASP Web Security Testing Guide](https://r.jina.ai/http://https://owasp.org/www-project-web-security-testing-guide/)
+- [Bandit Documentation](https://r.jina.ai/https://bandit.readthedocs.io/en/latest/)
+- [Bandit Configuration](https://r.jina.ai/https://bandit.readthedocs.io/en/latest/config.html)
+- [OWASP Web Security Testing Guide](https://r.jina.ai/https://owasp.org/www-project-web-security-testing-guide/)
 

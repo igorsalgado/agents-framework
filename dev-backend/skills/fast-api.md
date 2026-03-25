@@ -25,6 +25,6 @@ Use esta skill para APIs HTTP orientadas a contrato, com OpenAPI explícito, val
 - Criar uma aplicação gigante sem modularidade por domínio.
 
 ## Referências
-- [FastAPI Tutorial](https://r.jina.ai/http://https://fastapi.tiangolo.com/tutorial/)
-- [FastAPI Bigger Applications](https://r.jina.ai/http://https://fastapi.tiangolo.com/tutorial/bigger-applications/)
-- [Pydantic Documentation](https://r.jina.ai/http://https://docs.pydantic.dev/latest/)
+- [FastAPI Tutorial](https://r.jina.ai/https://fastapi.tiangolo.com/tutorial/)
+- [FastAPI Bigger Applications](https://r.jina.ai/https://fastapi.tiangolo.com/tutorial/bigger-applications/)
+- [Pydantic Documentation](https://r.jina.ai/https://docs.pydantic.dev/latest/)

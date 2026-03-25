@@ -26,8 +26,8 @@ Use esta skill para projetar ou revisar APIs HTTP em um contexto orientado a con
 - Quebra de compatibilidade sem plano de migração.
 
 ## Referências
-- [OpenAPI Specification](https://r.jina.ai/http://https://spec.openapis.org/oas/latest.html)
-- [FastAPI Tutorial](https://r.jina.ai/http://https://fastapi.tiangolo.com/tutorial/)
-- [Django Documentation](https://r.jina.ai/http://https://docs.djangoproject.com/en/stable/)
-- [RFC 9110: HTTP Semantics](https://r.jina.ai/http://https://www.rfc-editor.org/rfc/rfc9110.html)
-- [OWASP ASVS](https://r.jina.ai/http://https://owasp.org/www-project-application-security-verification-standard/)
+- [OpenAPI Specification](https://r.jina.ai/https://spec.openapis.org/oas/latest.html)
+- [FastAPI Tutorial](https://r.jina.ai/https://fastapi.tiangolo.com/tutorial/)
+- [Django Documentation](https://r.jina.ai/https://docs.djangoproject.com/en/stable/)
+- [RFC 9110: HTTP Semantics](https://r.jina.ai/https://www.rfc-editor.org/rfc/rfc9110.html)
+- [OWASP ASVS](https://r.jina.ai/https://owasp.org/www-project-application-security-verification-standard/)

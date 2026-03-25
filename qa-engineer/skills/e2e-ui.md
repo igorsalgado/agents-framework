@@ -22,6 +22,6 @@ Use esta skill para proteger jornadas críticas de negócio e validar integraç�
 - Cenários gigantes com múltiplas causas de falha.
 
 ## Referências
-- [Playwright Intro](https://r.jina.ai/http://https://playwright.dev/docs/intro)
-- [Playwright Best Practices](https://r.jina.ai/http://https://playwright.dev/docs/best-practices)
-- [WAI ARIA APG](https://r.jina.ai/http://https://www.w3.org/WAI/ARIA/apg/)
+- [Playwright Intro](https://r.jina.ai/https://playwright.dev/docs/intro)
+- [Playwright Best Practices](https://r.jina.ai/https://playwright.dev/docs/best-practices)
+- [WAI ARIA APG](https://r.jina.ai/https://www.w3.org/WAI/ARIA/apg/)

@@ -23,6 +23,6 @@ Use esta skill para revisar autenticação, autorização, isolamento de dados, 
 - Abrir finding genérico sem cenário de exploração ou impacto.
 
 ## Referências
-- [OWASP ASVS](https://r.jina.ai/http://https://owasp.org/www-project-application-security-verification-standard/)
-- [OWASP Top 10](https://r.jina.ai/http://https://owasp.org/www-project-top-ten/)
-- [Bandit Documentation](https://r.jina.ai/http://https://bandit.readthedocs.io/en/latest/)
+- [OWASP ASVS](https://r.jina.ai/https://owasp.org/www-project-application-security-verification-standard/)
+- [OWASP Top 10](https://r.jina.ai/https://owasp.org/www-project-top-ten/)
+- [Bandit Documentation](https://r.jina.ai/https://bandit.readthedocs.io/en/latest/)

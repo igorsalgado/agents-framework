@@ -24,6 +24,6 @@ Use esta skill para enquadrar oportunidades, entender problema, formular hipóte
 - Confundir feedback anecdótico com evidência suficiente.
 
 ## Referências
-- [Scrum Guide](https://r.jina.ai/http://https://scrumguides.org/scrum-guide.html)
-- [Atlassian: User Stories](https://r.jina.ai/http://https://www.atlassian.com/agile/project-management/user-stories)
-- [Scrum.org: Evidence-Based Management](https://r.jina.ai/http://https://www.scrum.org/resources/evidence-based-management-guide)
+- [Scrum Guide](https://r.jina.ai/https://scrumguides.org/scrum-guide.html)
+- [Atlassian: User Stories](https://r.jina.ai/https://www.atlassian.com/agile/project-management/user-stories)
+- [Scrum.org: Evidence-Based Management](https://r.jina.ai/https://www.scrum.org/resources/evidence-based-management-guide)

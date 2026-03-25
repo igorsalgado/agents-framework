@@ -22,6 +22,6 @@ Use esta skill para decidir e implementar interfaces com Vue ou Streamlit de for
 - Acoplamento do frontend ao formato incidental do backend.
 
 ## Referências
-- [Streamlit Documentation](https://r.jina.ai/http://https://docs.streamlit.io/)
-- [Vue Guide](https://r.jina.ai/http://https://vuejs.org/guide/introduction)
-- [Vite Guide](https://r.jina.ai/http://https://vite.dev/guide/)
+- [Streamlit Documentation](https://r.jina.ai/https://docs.streamlit.io/)
+- [Vue Guide](https://r.jina.ai/https://vuejs.org/guide/introduction)
+- [Vite Guide](https://r.jina.ai/https://vite.dev/guide/)

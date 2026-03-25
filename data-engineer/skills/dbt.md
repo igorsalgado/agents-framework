@@ -22,6 +22,6 @@ Use esta skill para modelagem analítica em camadas, testes de transformação, 
 - Documentação desatualizada em relação ao SQL.
 
 ## Referências
-- [dbt Docs: Introduction](https://r.jina.ai/http://https://docs.getdbt.com/docs/introduction)
-- [dbt Docs: Build Models](https://r.jina.ai/http://https://docs.getdbt.com/docs/build/models)
-- [dbt Docs: Data Tests](https://r.jina.ai/http://https://docs.getdbt.com/docs/build/data-tests)
+- [dbt Docs: Introduction](https://r.jina.ai/https://docs.getdbt.com/docs/introduction)
+- [dbt Docs: Build Models](https://r.jina.ai/https://docs.getdbt.com/docs/build/models)
+- [dbt Docs: Data Tests](https://r.jina.ai/https://docs.getdbt.com/docs/build/data-tests)

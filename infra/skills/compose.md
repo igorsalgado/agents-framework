@@ -25,7 +25,7 @@ Use esta skill para subir ambientes locais ou de homologação leves, com múlti
 - Considerar "container iniciou" como sinônimo de "serviço está pronto".
 
 ## Referências
-- [Docker Compose File Reference](https://r.jina.ai/http://https://docs.docker.com/compose/compose-file/)
-- [Compose Getting Started](https://r.jina.ai/http://https://docs.docker.com/compose/gettingstarted/)
-- [Startup Order](https://r.jina.ai/http://https://docs.docker.com/compose/how-tos/startup-order/)
+- [Docker Compose File Reference](https://r.jina.ai/https://docs.docker.com/compose/compose-file/)
+- [Compose Getting Started](https://r.jina.ai/https://docs.docker.com/compose/gettingstarted/)
+- [Startup Order](https://r.jina.ai/https://docs.docker.com/compose/how-tos/startup-order/)
 

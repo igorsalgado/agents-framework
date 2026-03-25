@@ -26,6 +26,6 @@ Use esta skill para estruturar serviços backend com fronteiras claras de domín
 - Fila, evento ou pattern usado para esconder design ruim.
 
 ## Referências
-- [The Twelve-Factor App](https://r.jina.ai/http://https://12factor.net/)
-- [Docker Overview](https://r.jina.ai/http://https://docs.docker.com/get-started/docker-overview/)
-- [OpenTelemetry Docs](https://r.jina.ai/http://https://opentelemetry.io/docs/)
+- [The Twelve-Factor App](https://r.jina.ai/https://12factor.net/)
+- [Docker Overview](https://r.jina.ai/https://docs.docker.com/get-started/docker-overview/)
+- [OpenTelemetry Docs](https://r.jina.ai/https://opentelemetry.io/docs/)

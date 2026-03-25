@@ -23,6 +23,6 @@ Use esta skill para empacotar serviços, compor ambientes locais e garantir exec
 - Container “sobe” mas não fica operacional.
 
 ## Referências
-- [Docker Overview](https://r.jina.ai/http://https://docs.docker.com/get-started/docker-overview/)
-- [Docker Compose File Reference](https://r.jina.ai/http://https://docs.docker.com/compose/compose-file/)
-- [The Twelve-Factor App](https://r.jina.ai/http://https://12factor.net/)
+- [Docker Overview](https://r.jina.ai/https://docs.docker.com/get-started/docker-overview/)
+- [Docker Compose File Reference](https://r.jina.ai/https://docs.docker.com/compose/compose-file/)
+- [The Twelve-Factor App](https://r.jina.ai/https://12factor.net/)

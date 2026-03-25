@@ -25,6 +25,6 @@ Use esta skill para monólitos produtivos, backoffice, admin, ORM integrado e ap
 - Quebrar convenções do Django sem benefício concreto.
 
 ## Referências
-- [Django Documentation](https://r.jina.ai/http://https://docs.djangoproject.com/en/stable/)
-- [Django Models](https://r.jina.ai/http://https://docs.djangoproject.com/en/stable/topics/db/models/)
-- [Django Testing](https://r.jina.ai/http://https://docs.djangoproject.com/en/stable/topics/testing/)
+- [Django Documentation](https://r.jina.ai/https://docs.djangoproject.com/en/stable/)
+- [Django Models](https://r.jina.ai/https://docs.djangoproject.com/en/stable/topics/db/models/)
+- [Django Testing](https://r.jina.ai/https://docs.djangoproject.com/en/stable/topics/testing/)
