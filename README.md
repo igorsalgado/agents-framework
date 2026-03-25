@@ -1,5 +1,8 @@
 # Agents Workspace
 
+## 🚨 CRITICAL: Main-Work Branch
+This repository MUST be used on the **`main-work`** branch for all company-related projects in `C:\Users\Igor Andrade\Desktop\Dev\Workspace\apps`. This branch contains the adapted rules for CakePHP 2.x and the specific ticket-driven lifecycle.
+
 Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por especialidade para agentes de IA em `C:\Users\Igor\Desktop\Dev`.
 
 ## Regra Global

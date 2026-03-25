@@ -37,3 +37,16 @@ You MUST operate using the ticket-driven flow inside `.vscode/.ticket/<ticket_id
 - **Fat Services:** Keep logic out of Controllers. Use `app/Lib/Service/`.
 - **Security First:** Never use raw SQL without binding. Escape all view outputs using `h()`.
 - **Test-Driven:** New features or bug fixes MUST include corresponding tests in `app/Test/Case/`.
+
+## Skills
+Before acting, consult the relevant skills in `./skills/`, especially:
+- `cakephp-2x.md`
+- `mysql-8.md`
+- `api-design.md`
+- `data-access.md`
+- `backend-quality.md`
+- `design-patterns.md`
+- `service-architecture.md`
+- `python.md`
+- `fast-api.md`
+- `django.md`

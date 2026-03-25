@@ -8,6 +8,8 @@ Estas skills são carregadas do framework central:
 
 @frontend-architecture.md
 @frontend-testing.md
+@javascript-vanilla.md
+@jquery.md
 @streamlit.md
 @tailwind-ui.md
 @tailwind.md
