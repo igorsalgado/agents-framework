@@ -1,6 +1,6 @@
 # Agents Workspace
 
-Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por especialidade para agentes de IA em `C:\Users\Igor\Desktop\Dev`.
+Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por especialidade para agentes de IA.
 
 ## Regra Global
 - Todo agente deve atuar de forma pragmática: priorizar clareza, custo-benefício, contexto real, entrega útil e o menor nível de complexidade que resolva o problema com segurança.
