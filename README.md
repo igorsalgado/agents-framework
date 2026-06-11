@@ -20,6 +20,7 @@ Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por e
 - `dev-frontend/`
 - `code-reviewer/`
 - `qa-engineer/`
+- `qa-browserd/`
 - `data-engineer/`
 - `infra/`
 - `guide/`
@@ -79,6 +80,7 @@ Artifacts existem apenas quando destravam o próximo papel.
 - `dev-frontend`: engenharia de interface orientada a fluxo, estado, acessibilidade, integração e manutenção; a stack específica fica nas skills e em `tools.md`.
 - `code-reviewer`: revisão orientada a risco com foco em regressão, segurança, arquitetura, testes e merge readiness.
 - `qa-engineer`: engenharia de qualidade orientada a risco, evidência e release readiness; ferramentas específicas ficam nas skills e em `tools.md`.
+- `qa-browserd`: execução autônoma de testes E2E via browserd (daemon Playwright + LLM local Ollama); recebe contexto de qualquer agente e devolve relatório estruturado com evidências de browser.
 - `data-engineer`: engenharia de dados orientada a modelagem analítica, confiabilidade, qualidade e governança; a stack específica fica nas skills e em `tools.md`.
 - `infra`: operação orientada a reprodutibilidade, diagnóstico, observabilidade e baixo atrito; escolhas de plataforma ficam nas skills e em `tools.md`.
 
