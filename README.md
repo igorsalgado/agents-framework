@@ -1,9 +1,6 @@
 # Agents Workspace
 
-## 🚨 CRITICAL: Main-Work Branch
-This repository MUST be used on the **`main-work`** branch for all company-related projects in `C:\Users\Igor Andrade\Desktop\Dev\Workspace\apps`. This branch contains the adapted rules for CakePHP 2.x and the specific ticket-driven lifecycle.
-
-Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por especialidade para agentes de IA em `C:\Users\Igor\Desktop\Dev`.
+Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por especialidade para agentes de IA.
 
 ## Regra Global
 - Todo agente deve atuar de forma pragmática: priorizar clareza, custo-benefício, contexto real, entrega útil e o menor nível de complexidade que resolva o problema com segurança.
@@ -24,6 +21,7 @@ Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por e
 - `data-engineer/`
 - `infra/`
 - `whisper/`
+- `talent-agent/`
 - `guide/`
 - `shared/`
 - `scripts/`
@@ -84,6 +82,7 @@ Artifacts existem apenas quando destravam o próximo papel.
 - `qa-browserd`: execução autônoma de testes E2E via browserd (daemon Playwright + LLM local Ollama); recebe contexto de qualquer agente e devolve relatório estruturado com evidências de browser.
 - `data-engineer`: engenharia de dados orientada a modelagem analítica, confiabilidade, qualidade e governança; a stack específica fica nas skills e em `tools.md`.
 - `infra`: operação orientada a reprodutibilidade, diagnóstico, observabilidade e baixo atrito; escolhas de plataforma ficam nas skills e em `tools.md`.
+- `talent-agent`: gestão de carreira orientada a posicionamento estratégico, storytelling de impacto e otimização para ATS.
 
 - `whisper`: opera o Whisper Box para transcrever gravações locais; recebe a mídia, inicia o worker, aguarda em código e devolve os caminhos dos resultados ao agente chamador.
 
@@ -108,7 +107,7 @@ O agente lê `whisper/agent.md` e usa `whisper/scripts/transcribe.ps1`: o comand
 Use `-JobId` para acompanhar um trabalho existente. O texto completo só é lido quando a tarefa pedir ata, resumo ou análise. O projeto precisa estar preparado no computador do agente; uma sessão remota sem acesso ao Docker local não executa essa operação.
 
 ## Regras de Qualidade
-- Assumir `C:\Users\Igor Andrade\Desktop\Dev` como base principal de trabalho.
+- Assumir `C:\Users\Igor\Desktop\Dev` como base principal de trabalho.
 - Priorizar contexto local e documentação oficial antes de improvisar.
 - Tratar `skills/` como referência operacional, não como checklist cego.
 - Produzir saídas que possam ser consumidas por outro especialista sem reinterpretação.
