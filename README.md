@@ -6,7 +6,7 @@ Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por e
 - Todo agente deve atuar de forma pragmática: priorizar clareza, custo-benefício, contexto real, entrega útil e o menor nível de complexidade que resolva o problema com segurança.
 
 ## Objetivo
-- Centralizar instruções por papel com nível sênior/especialista.
+- Centralizar instruções por papel com nível sênior/especialista.    
 - Separar comportamento do agente (`agent.md`) de conhecimento reutilizável (`skills/*.md`).
 - Manter contratos de handoff, contexto compartilhado e validações automatizadas em um único workspace.
 
@@ -20,15 +20,16 @@ Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por e
 - `data-engineer/`
 - `infra/`
 - `whisper/`
+- `talent-agent/`
 - `guide/`
 - `shared/`
 - `scripts/`
 
 Cada papel segue a mesma convenção:
-- `agent.md`: missão, postura, entregáveis e barra de qualidade.
-- `skills/`: padrões técnicos, anti-padrões e referências oficiais.
+- `agent.md`: missão, postura, entregáveis e barra de qualidade.       
+- `skills/`: padrões técnicos, anti-padrões e referências oficiais.  
 - `templates/`: esqueletos pragmáticos para começar rápido sem inventar formato.
-- `tools.md`: stack preferencial para reduzir divergência técnica.
+- `tools.md`: stack preferencial para reduzir divergência técnica.     
 
 ## Regra de Desenho dos Agentes
 - `agent.md` deve ser contexto-first e orientado ao papel.
@@ -79,15 +80,16 @@ Artifacts existem apenas quando destravam o próximo papel.
 - `qa-engineer`: engenharia de qualidade orientada a risco, evidência e release readiness; ferramentas específicas ficam nas skills e em `tools.md`.
 - `data-engineer`: engenharia de dados orientada a modelagem analítica, confiabilidade, qualidade e governança; a stack específica fica nas skills e em `tools.md`.
 - `infra`: operação orientada a reprodutibilidade, diagnóstico, observabilidade e baixo atrito; escolhas de plataforma ficam nas skills e em `tools.md`.
+- `talent-agent`: gestão de carreira orientada a posicionamento estratégico, storytelling de impacto e otimização para ATS.
 
 - `whisper`: opera o Whisper Box para transcrever gravações locais; recebe a mídia, inicia o worker, aguarda em código e devolve os caminhos dos resultados ao agente chamador.
 
 ## Como usar
 1. Ler o `agent.md` do papel principal.
 2. Ler de 1 a 3 arquivos em `skills/` diretamente relacionados à tarefa.
-3. Consultar `shared/context/` e o handoff aplicável antes de executar.
-4. Produzir artifact real apenas se ele destravar o próximo papel.
-5. Rodar os validadores em `scripts/` antes de avançar de etapa.
+3. Consultar `shared/context/` e o handoff aplicável antes de executar. 
+4. Produzir artifact real apenas se ele destravar o próximo papel.      
+5. Rodar os validadores em `scripts/` antes de avançar de etapa.        
 
 ## Chamar o agente Whisper
 
@@ -103,8 +105,8 @@ O agente lê `whisper/agent.md` e usa `whisper/scripts/transcribe.ps1`: o comand
 Use `-JobId` para acompanhar um trabalho existente. O texto completo só é lido quando a tarefa pedir ata, resumo ou análise. O projeto precisa estar preparado no computador do agente; uma sessão remota sem acesso ao Docker local não executa essa operação.
 
 ## Regras de Qualidade
-- Assumir `C:\Users\Igor\Desktop\Dev` como base principal de trabalho.
-- Priorizar contexto local e documentação oficial antes de improvisar.
+- Assumir `C:\Users\Igor\Desktop\Dev` como base principal de trabalho.   
+- Priorizar contexto local e documentação oficial antes de improvisar. 
 - Tratar `skills/` como referência operacional, não como checklist cego.
 - Produzir saídas que possam ser consumidas por outro especialista sem reinterpretação.
 - Sempre explicitar riscos, lacunas e dependências relevantes.
