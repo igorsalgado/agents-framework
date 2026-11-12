@@ -81,3 +81,13 @@ python .\scripts\validate_handoff.py qa_to_code_review auth_2fa
 
 ## Guia Relacionado
 - `../guide/validation-flows.md`
+
+## Contrato do agente Whisper
+
+O agente operacional tem um teste próprio, sem modificar os gates de artifacts de desenvolvimento:
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\whisper\tests\test-transcribe.ps1
+```
+
+Esse teste valida o comando único de transcrição com backend simulado. Para o ensaio com Docker/modelo e mídia autorizada, consulte `whisper/tools.md` e a documentação do projeto Whisper Box.

@@ -19,6 +19,7 @@ Esta pasta organiza prompts, padrões operacionais e artefatos de trabalho por e
 - `qa-engineer/`
 - `data-engineer/`
 - `infra/`
+- `whisper/`
 - `guide/`
 - `shared/`
 - `scripts/`
@@ -79,12 +80,27 @@ Artifacts existem apenas quando destravam o próximo papel.
 - `data-engineer`: engenharia de dados orientada a modelagem analítica, confiabilidade, qualidade e governança; a stack específica fica nas skills e em `tools.md`.
 - `infra`: operação orientada a reprodutibilidade, diagnóstico, observabilidade e baixo atrito; escolhas de plataforma ficam nas skills e em `tools.md`.
 
+- `whisper`: opera o Whisper Box para transcrever gravações locais; recebe a mídia, inicia o worker, aguarda em código e devolve os caminhos dos resultados ao agente chamador.
+
 ## Como usar
 1. Ler o `agent.md` do papel principal.
 2. Ler de 1 a 3 arquivos em `skills/` diretamente relacionados à tarefa.
 3. Consultar `shared/context/` e o handoff aplicável antes de executar.
 4. Produzir artifact real apenas se ele destravar o próximo papel.
 5. Rodar os validadores em `scripts/` antes de avançar de etapa.
+
+## Chamar o agente Whisper
+
+Durante qualquer tarefa, solicite: **Whisper, transcreva a gravação em `C:\Reunioes\gravacao.mp4` e me entregue a saída.**
+
+O agente lê `whisper/agent.md` e usa `whisper/scripts/transcribe.ps1`: o comando encapsula start, submissão, espera e resultado, sem exigir que o usuário execute essas etapas. A inferência pertence ao projeto Whisper Box; a espera roda em código, sem acompanhamento contínuo pelo modelo.
+
+- Contrato do agente: [whisper/agent.md](whisper/agent.md).
+- Dependências e localização configurável do projeto: [whisper/tools.md](whisper/tools.md).
+- Entrada para executores com suporte a skills: [whisper/SKILL.md](whisper/SKILL.md).
+- Retorno ao trabalho original: [shared/handoffs/agent-to-whisper.md](shared/handoffs/agent-to-whisper.md).
+
+Use `-JobId` para acompanhar um trabalho existente. O texto completo só é lido quando a tarefa pedir ata, resumo ou análise. O projeto precisa estar preparado no computador do agente; uma sessão remota sem acesso ao Docker local não executa essa operação.
 
 ## Regras de Qualidade
 - Assumir `C:\Users\Igor\Desktop\Dev` como base principal de trabalho.
